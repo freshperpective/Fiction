@@ -1,0 +1,729 @@
+{\rtf1\ansi\deff0\adeflang1025
+{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\froman\fprq2\fcharset2 Symbol;}{\f2\fswiss\fprq2\fcharset0 Arial;}{\f3\fswiss\fprq2\fcharset0 Calibri;}{\f4\fnil\fprq0\fcharset0 Chaparral Pro Light;}{\f5\fswiss\fprq2\fcharset128 Calibri;}{\f6\fswiss\fprq0\fcharset128 Arial;}{\f7\fnil\fprq2\fcharset0 Microsoft YaHei;}}
+{\colortbl;\red0\green0\blue0;\red128\green128\blue128;}
+{\stylesheet{\s0\snext0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033 Default;}
+{\*\cs15\snext15 Default Paragraph Font;}
+{\s16\sbasedon0\snext17\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb240\sa120\keepn\cf0\kerning1\hich\af2\langfe1033\dbch\af7\loch\f2\fs28\lang1033 Heading;}
+{\s17\sbasedon0\snext17\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa120\cf0\kerning1\hich\af3\langfe1033\dbch\af0\loch\f3\fs22\lang1033 Text body;}
+{\s18\sbasedon17\snext18\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa120\cf0\kerning1\hich\af6\langfe1033\dbch\af0\loch\f3\fs22\lang1033 List;}
+{\s19\sbasedon0\snext19\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb120\sa120\cf0\i\kerning1\hich\af6\langfe1033\dbch\af0\ai\loch\f3\fs24\lang1033 Caption;}
+{\s20\sbasedon0\snext20\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\cf0\kerning1\hich\af6\langfe1033\dbch\af0\loch\f3\fs22\lang1033 Index;}
+}{\info{\author Koko}{\creatim\yr2018\mo6\dy8\hr11\min14}{\revtim\yr2018\mo6\dy8\hr11\min24}{\printim\yr0\mo0\dy0\hr0\min0}{\comment OpenOffice}{\vern4010}}\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720
+
+{\*\pgdsctbl
+{\pgdsc0\pgdscuse195\pgwsxn12240\pghsxn15840\marglsxn1440\margrsxn1440\margtsxn1440\margbsxn1440\pgdscnxt0 Default;}}
+\formshade{\*\pgdscno0}\paperh15840\paperw12240\margl1440\margr1440\margt1440\margb1440\sectd\sbknone\sectunlocked1\pgndec\pgwsxn12240\pghsxn15840\marglsxn1440\margrsxn1440\margtsxn1440\margbsxn1440\ftnbj\ftnstart1\ftnrstcont\ftnnar\aenddoc\aftnrstcont\aftnstart1\aftnnrlc
+\pgndec\pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+Sootputra: The Unsung Hero.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\ul\ulc0\rtlch \ltrch\loch\lang9
+Chapter }{\ul\ulc0\rtlch \ltrch\loch\lang16393
+1}{\ul\ulc0\rtlch \ltrch\loch\lang9
+: Karna}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+I've always heard that when you are near the doorstep of death, your entire life fla}{\rtlch \ltrch\loch\lang16393
+res }{\rtlch \ltrch\loch\lang9
+in front of you }{\rtlch \ltrch\loch\lang16393
+like a last burst of suffocating fire}{\rtlch \ltrch\loch\lang9
+. I've thought of this as a truth that I'll eventualy have to face but in the end it's all a lie. I can't even }{\rtlch \ltrch\loch\lang16393
+see }{\rtlch \ltrch\loch\lang9
+myself from a day ago let alone my entire life, still I haven't forgotten the moments that led me here made me who I am, the struggles, the loss, the sins,}{\rtlch \ltrch\loch\lang16393
+ the mistakes, the wrongs, }{\rtlch \ltrch\loch\lang9
+the sacrifices. }
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+You want to know about me but sometimes I wonder that if I even do know myself. I don't know where to start the story or where it all started but I'll try to begin with the earliest thing I can remember...an Arrow.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i\hich\af4\ai\rtlch \ltrch\loch\lang9\loch\f4
+ssssss........thump}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+The tail of the arrow vibrated as it struck it's mark.  }
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Vasusena, it's your turn now}{\rtlch \ltrch\loch\lang9
+" said the boy that has just landed a bull\'92s-eye on the tree stump.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+The boy's body was frail, his skin was palish white and he wore the getup of a sage with a bald head except for a ponytail behind. He wore several bracelets, armbands, necklace made of string of rudraksh beads. But the most intriguing part about the boy was the red gem that was stuck on his forehead and shown brilliantly enough even in the dead of night.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Just you watch Ashwathama}{\rtlch \ltrch\loch\lang9
+!" I jumped down from the branch i was sitting on and took the bow and quiver from him.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+So This is how Guru Deva told us right}{\i0\ai0\rtlch \ltrch\loch\lang9
+.}{\rtlch \ltrch\loch\lang9
+" }
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+I loved archery when I was a child. Despite being a charioteer\'92s son I wanted to be an archer. My Guru Dronacharya had an Ashram where he taught various forms of skills needed in battle and politics.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+But I didn't care about any other skill, i was just interest in one thing.......Arrows. How they winged in mid-air and how they pierced their targets even if it is so far away. I wanted all of it for myself. That's why I joined his Ashram where I learned the basics of the craft like any other boy aiming to be a soldier does.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+There I met Ashwathama and we quickly }{\rtlch \ltrch\loch\lang16393
+synced}{\rtlch \ltrch\loch\lang9
+. It may have been because we both loved archery but more so because we both carried a precious thing on us. He with his Precious stone in his forehead and I with my }{\rtlch \ltrch\loch\lang16393
+kundals(earrings).}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch
+"}{\hich\af4\rtlch \ltrch\loch\loch\f4
+Okay then ......fooooh.\'94 }{\hich\af4\rtlch \ltrch\loch\lang16393\loch\f5
+The air rushed in my chest.}{\hich\af4\rtlch \ltrch\loch\loch\f4
+ }
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i\hich\af4\ai\rtlch \ltrch\lang9\loch\f4
+\'93}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Here we go}{\rtlch \ltrch\loch\lang9
+." I calmed my breathing and pulled the string with the arrow all the way, aiming for the target.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i\hich\af4\ai\rtlch \ltrch\loch\lang9\loch\f4
+ssssss.........thump}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+The arrow zipped through the air, cutting it like a sword and pierced the stump.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang16393\loch\f4
+Woah...Vasusena}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+, I knew it as usual}{\i0\dbch\af3\ai0\rtlch \ltrch\loch\lang9
+.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+You hit the same spot as mine and your power was more too.  you pierced right through the tree. Your }{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang16393\loch\f4
+aim is }{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+already }{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang16393\loch\f4
+good}{\i0\ai0\rtlch \ltrch\loch\lang9
+.}{\rtlch \ltrch\loch\lang9
+ " Ashwathama said with idolization in his eyes.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+The piercing may be because I am a year older than you. }
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+That's why my arrow had a little more power. }
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Don't worry Ashwathama your shot was too good and with your father's tutelage you will surpass me in no time}{\rtlch \ltrch\loch\lang9
+." }{\rtlch \ltrch\loch\lang16393
+I said to the }{\rtlch \ltrch\loch\lang9
+humbling archer closing his eyes and laughing.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Oh I definetly will surpass you, But not with my father's tutelage}{\i0\ai0\rtlch \ltrch\loch\lang9
+.}{\rtlch \ltrch\loch\lang9
+" His face turned down and his voice picked a low pitch.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+He's currently busy with the royal students that joined a year ago and first time in all these 12 years,  doesn't have much tme to spend on }{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang16393\loch\f4
+his son}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+. Specially not during the trainig hours.}{\rtlch \ltrch\loch\lang9
+" I can already tell that more than the training Ashwath missed his father.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+So shall we pack? It's almost Dusk}{\i0\ai0\rtlch \ltrch\loch\lang9
+.}{\rtlch \ltrch\loch\lang9
+" I tried changing the subject.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+As we were collecting all the arrows scattered on the grounds, there was somene running towards us. The sounds of his footstepsreached before he did. They were fast and growing louder by the second.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Bhai(Brother)...... did you......did you hear}{\rtlch \ltrch\loch\lang9
+?" Shon was here. He was holdind the stem of the tree that he was playing with earlier, but instead of a toy it now acted as an old man stick helping him stand on his two feet as he was panting heavily.  }
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Did you......Hear about........Eklavya}{\i\hich\af4\ai\rtlch \ltrch\loch\lang9\loch\f4
+?}{\rtlch \ltrch\loch\lang9
+" he said still catching his breath.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+The farmer's boy}{\i\hich\af4\ai\rtlch \ltrch\loch\lang9\loch\f4
+?}{\rtlch \ltrch\loch\lang9
+" Ashwath enquired. }
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+Shon as if just realizing Ashwathama's presence stood still watching him like an owl.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Yes, He.....he is Uncle Hiranyadhanu's Son, one of father's friend. If I remember correctly.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+And a couple years older than us.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+What about him, Shon?}{\rtlch \ltrch\loch\lang9
+" I enquired.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+Shon still frozen in his moment that didn't hear my words.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Shon!!!}{\rtlch \ltrch\loch\lang9
+" He snapped out of his state and looked at me in a hurry.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Yes, Yes Bhai. You said something}{\rtlch \ltrch\loch\lang9
+." He said, his gaze still fixed on Ashwathama.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Not me, you! You said something about Eklavya.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+What happened to him?}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Is he okay?}{\rtlch \ltrch\loch\lang9
+" I asked while pulling an arrow stuck in the tree.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+No he's not. He has lost both his thumbs}{\rtlch \ltrch\loch\lang9
+" Shon said in a panick. His feets were quite jumpy and he couldn't control his nervousness.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Calm down, Shon}{\rtlch \ltrch\loch\lang9
+" I held him firmly by his arms and looked him in the eyes.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Now tell me what happened, slowly}{\rtlch \ltrch\loch\lang9
+" }
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch
+"}{\i\hich\af4\ai\rtlch \ltrch\loch\loch\f4
+Father told me that......\'94 }{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f5
+holding me tight he continued}{\i\hich\af4\ai\rtlch \ltrch\loch\lang9\loch\f4
+ }{\i\hich\af4\ai\rtlch \ltrch\loch\loch\f4
+\'93That Guru Drona had met with Eklavya..}{\rtlch \ltrch\loch
+" Shon said shifting his gaze from me to Ashwathama.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Father, Why would father meet with him}{\i0\ai0\rtlch \ltrch\loch\lang9
+?}{\rtlch \ltrch\loch\lang9
+' Ashwathama asked shon.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Rumor has it that he practiced Archery in secret whenever he took the cows for grazing.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Guru Drona went to investigate and when he returned, he had Eklavya's thumbs in his hands.}{\rtlch \ltrch\loch\lang9
+"}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+Shon looked at Ashwathama. It was clear he was in a state of fear from just my friends presence.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Father has asked for you urgently. }
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Please let's go, mata is on verge of crying}{\rtlch \ltrch\loch\lang9
+." }
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+Shon wasn't doing any better too. His eyes were all teared up.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Ashwathama forgive me, but can you handle it here}{\rtlch \ltrch\loch\lang9
+?" i said to my friend.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Leave it to me}{\rtlch \ltrch\loch\lang9
+" Ashawathama assuringly replied}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Thanks. Let's go Shon}{\rtlch \ltrch\loch\lang9
+." }
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+I turned him arround and matching his pace, we both started running.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+After a certain distance........ }
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Bhai, forgive me for not saying it earlier}{\i0\ai0\rtlch \ltrch\loch\lang9
+. }{\rtlch \ltrch\loch\lang9
+"}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i\hich\af4\ai\rtlch \ltrch\loch\lang9\loch\f4
+I know,}{\rtlch \ltrch\loch\lang9
+" assuring my brother, I said. \'93}{\i\hich\af4\ai\rtlch \ltrch\loch\lang9\loch\f4
+you did good not to}{\rtlch \ltrch\loch\lang9
+\'94I knew he hadn't lied about anything but I also knew that he hadn't told the whole truth.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+The ones who told Guru Drona about Eklavya......}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+were his own students. The ones who have recently joined from the palace.}{\rtlch \ltrch\loch\lang9
+" His lips were tingling as if he had just said something that will give a dungeon imprisonment.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+You don't have to be holding back Shon.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+I know you are not scared, even the shaking in front of Ashawathama was not because you feared him.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+It was because you were and you are angry.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Angry by this unjust society. }
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+How could Guru do this? He is his father maybe he feels the same way.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+I just want them to feel, how we do for once.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Those are the thoughts that crossed your mind, right?}{\i0\ai0\rtlch \ltrch\loch\lang9
+" I know him full well what he felt.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\ai0\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+You don't have to hold it back, Shon.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Ashwath would have told me if he knew anything.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Remember what Guru told us, .........}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Never jump to battle without knowing the whole truth.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+And even if the things are as you propose....}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+I promise I will one day change them. }
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+I promise I will change his heart and prove that I am worthy of his teachings.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+I will make sure he sees me in a different light.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+You just wait Shon, your brother will reach new heights.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+I will, be the best Archer in the world.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+The strongest Arrows will be mine}{\i0\ai0\rtlch \ltrch\loch\lang9
+....}{\rtlch \ltrch\loch\lang9
+" }
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+Shon's face was slightlty delighted but then quickly turned grim again.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+We are nearly there, change your mood or mata will cry even more}{\rtlch \ltrch\loch\lang9
+."}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+With that pat on his back we strived forward, not knowing the bitter truth that awaited us.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+...................................................}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+3 months later.............}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i\hich\af4\ai\rtlch \ltrch\loch\lang9\loch\f4
+Look...Look Vasusena}{\rtlch \ltrch\loch\lang9
+."}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+It was a windy day and the sun was about to set when Ashwathama came with his bow in one hand and quiver on the back. He was very excited when pulling something out of his quiver.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Look Vasusena. This is what father taught to the royal Princes today}{\rtlch \ltrch\loch\lang9
+." }
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+Ashwathama said while holding what looked like to be a wooden doll in shape of a bird. The craftmanship was not fine, one would not be able to makeout the wings or it's beak if not for the pointed buldges on it. But there was a deformity, the thing missing was it's  left eye. As though gouged out by a sharp knife.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Father was teaching a special lession to them about Archery and concentration on battlfield today. }
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+He tied this bird to one of the branches in the Banyan tree in the Ashram and asked each prince a simple question before they attempted to take it down with thier arrows}{\rtlch \ltrch\loch\lang9
+."}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+Ashwathama said, thrilled.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Only one prince was able to pass this test though. Beside him, no one even came close to hitting the bird}{\rtlch \ltrch\loch\lang9
+."}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Look, look he hit it right in it's eye}{\rtlch \ltrch\loch\lang9
+."}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+Ashwathama was directing my attention towards the gouged out eye.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Can I see it}{\rtlch \ltrch\loch\lang9
+?" I extended my hand requesting for the bird he was holding.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+The Archer must be skilled. }
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+He only hit it's eye.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Oh, yes......you mentioned that Guru Deva asked a question to all before everyone's attempt.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+What was it}{\rtlch \ltrch\loch\lang9
+?" I asked Ashawathama while examining the Bird.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Oh, that was the most intriguing part. }
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+At start, I thought it was a very simple question}{\i0\hich\af4\dbch\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+He asked from every prince what they saw while pointing towards the Banyan tree.}{\rtlch \ltrch\loch\lang9
+" }
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+Ashwathama said while climbing the tree branch.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Various student gave various answers, some said the sky and tree. Some said only tree. Some said they saw the tied bird.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+But the most intresting answer was given by the prince who made that hole in it's eye.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Prince Arjun. }
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+he only saw the eye of that wooden doll bird. }
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+I thought that he had some kind of visual defect.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+But father was intrigued. He asked him to attempt.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Lo and behold the bird had lost his eyes.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+It was super cool, friend.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Father has declared him as his favorite student and promised to make him the best Archer in the world}{\i\hich\af4\ai\rtlch \ltrch\loch\lang9\loch\f4
+.}{\rtlch \ltrch\loch\lang9
+"}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i\ai\rtlch \ltrch\loch\lang9
+Only the eye huh, I thought. But I also have only seen my targets all these years. Will GuruDeva accept me after I accomplish the same feat? }
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i\ai\rtlch \ltrch\loch\lang9
+No, I am of low birth, that means that to be acknowledged by everyone I have to work harder than anyone else. That means that I have to surpass the feats of the ones who have the right to be even considered eligible.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Ashwath can I borrow this}{\rtlch \ltrch\loch\lang9
+?" I requested him for the bird.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Sure, but just don't break it. It took me a whole day to carve it from a log.}{\rtlch \ltrch\loch\lang9
+"}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Sure thanks}{\rtlch \ltrch\loch\lang9
+" I said taking the bird from his tightly gripped hands.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+I tied the bird with the spare strings of the bow to the branch of the tree Ashath was sitting on and hanged it in the air. }
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Don't tell me you are going to attempt it too.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Vasusena it's difficult enough when the bird is tied to the branch. }
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+But in this hanged position it will be on the mercy of the wind.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+How are you going to aim when it's constantly moving back and forth}{\rtlch \ltrch\loch\lang9
+."}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+And Sure enough as Ashawathama had said the wooden bird was flowing with the breezing air. It started spinning, sometimes showing it's left and other times it's right eye in front. But that gave me an idea. }
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+The wind was not strong enough, so it was not that diffcult to trace it's movement. I picked two arrows from the quiver and knocked them on the bow.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+What are you doing? You can't fire two arrows at once. In our Ashram, only seniors including my father can launch more than one arrow from his bow at once. He says that It's still too early for us to learn that but he will teach us once when we progress to advance learning.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Vasusena, at this rate none of your arrows will connect. They will both be deflected by the other's force. The third Pandav Prince himself only used a single arrow}{\i0\ai0\rtlch \ltrch\loch\lang9
+.......}{\rtlch \ltrch\loch\lang9
+"}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+Ashawath lost me at some point in his lecture. For now I was only focussing on the target in front. Only the eye huh? No! The Eyes!}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+I controlled my breathing, and pulled the string with both the arrows knocked. }
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Foooh................The eyes only}{\i0\ai0\rtlch \ltrch\loch\lang9
+. " I whispered}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\ai0\rtlch \ltrch\loch\lang9
+...}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\ai0\rtlch \ltrch\loch\lang9
+...}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\ai0\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+sssss.......thum..thump}{\rtlch \ltrch\loch\lang9
+"}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+Ashwath's blabbering finally stopped,}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i\hich\af4\ai\rtlch \ltrch\lang9\loch\f4
+\'93}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+woah.........}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+how.........}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+When did you learn}{\rtlch \ltrch\loch\lang9
+?" Ashwathama was finding it hard to search the words.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+None in Ashram can}{\i0\ai0\rtlch \ltrch\loch\lang9
+.......}{\rtlch \ltrch\loch\lang9
+"}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+He jumped down from the branch and loosened the bird that was hanging from it.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Now it's blind like the King himself}{\i0\ai0\rtlch \ltrch\loch\lang9
+.}{\rtlch \ltrch\loch\lang9
+" Ashwathama said.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+He brought it closer to me and sure enough he was right. Both the arrows had pierced his two eyes from opposite directions. The Bird was blind now.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+How did you do it? }
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Who taught you}{\rtlch \ltrch\loch\lang9
+?" Ashwathama asked stumped.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Well you did, and also the wind}{\i0\ai0\rtlch \ltrch\loch\lang9
+.}{\rtlch \ltrch\loch\lang9
+" }
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i\hich\af4\ai\rtlch \ltrch\loch\lang9\loch\f4
+eh}{\rtlch \ltrch\loch\lang9
+?......" It was clear from his face that he was clueless like a  to what I was saying.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Well I was only going to use a single arrow like the prince. }
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+But when the Bird started spinning due to wind, I got the Idea.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+I aimed the arrows with timing of its rotation in mind. }
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+One arrow was only a moments delayed from the other. }
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+And well, the Bird Dhritrashtra}{\i\hich\af4\ai\rtlch \ltrch\loch\lang9\loch\f4
+.}{\rtlch \ltrch\loch\lang9
+"}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+My friend, you're amazing.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+You have already aced the basics and now learining the advanced skills on your own.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+The princes have already started thier advanced weaponry skills and (spell)mantra training.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Father said he would teach me too.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+I'm sure if you ask him, he will not be hessitant to train you too considering your already exceptional skills}{\i\hich\af4\ai\rtlch \ltrch\loch\lang9\loch\f4
+.}{\rtlch \ltrch\loch\lang9
+"}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+Ashwathama was clearly excited from seeing this accompishment. I was a little relieved too. But will this be actually enough? Will this much skills be enough to chnage his heart? I haven't yet told Ashwathama about the incident with Eklavya and fortunately he hasn't asked of me yet. }
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Well I guess it wouldn't hurt to try}{\rtlch \ltrch\loch\lang9
+."  I said wiping the beads of sweat from my forehead.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Oh, Great. I can't wait for tommorrow}{\rtlch \ltrch\loch\lang9
+." he was excited atleast someone was. My heart douldn't gather the same waves of emotions as him. There was a hint of excitement sure, but there was also a dollop of nervousness and fear twiddling with it. }
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+No, No... what was I thinking. I have to learn. No matter how good I am, my body is still a unmolded clay. A warrior needs a mentor. Without proper training he can only achieve so much. I have to try.......at the very least.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+...................................................}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+Next day at the Ashram......}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+At Dusk after the regular practice.........}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Shon! you go home i'll be back a little later}{\rtlch \ltrch\loch\lang9
+" }
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+What are you going to do}{\rtlch \ltrch\loch\lang9
+?" he picked the stick of the broken chariot wheel.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+I am going to ask Guru Drona, to teach me advanced skills}{\i0\ai0\rtlch \ltrch\loch\lang9
+....}{\rtlch \ltrch\loch\lang9
+."}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+But Bhai he would never}{\i0\ai0\rtlch \ltrch\loch\lang9
+........"}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\ai0\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Shon, go home now I will be behind you.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+I promise.}{\rtlch \ltrch\loch\lang9
+"}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+A pat on his back was all I could give him because there were no words to answer his questions.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+Ashwathama was also present that day. A stream of hope flowed in me like the Ganga that flowed from the hair of Mahadev. With his help I had a good chance.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+We together headed towards the banks of the same mighty river, where GuruDeva always went for his evening prayers and we didn't had to walk long as our path with GuruDeva crossed on the gates of the Ashram where he was returing from his prayer's.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Guru Deva accept My deepest gretings}{\rtlch \ltrch\loch\lang9
+." I extended my hands towards his feets and touched them.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Vijayi Bahva, Vasusena}{\rtlch \ltrch\loch\lang9
+" Guru deva Blessed me with his hands held high.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+He was wearing his traditional sage clothes. and had the rudraksha necklace in his left grip. His face was that of a normal middle aged man, though for his age he looked quite young. His hair was all bundled up on his head like that of Lord Shiva He had a long bushy black beard covering his lower face. }
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Ashwath!? why are you still here? }
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Isn't your training supposed to start today}{\rtlch \ltrch\loch\lang9
+?" Guru deva asked. His voice was gruff, like a few broken sitar played without sync.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Well I was with Vasusena, He needs to say something to you}{\i\hich\af4\ai\rtlch \ltrch\loch\lang9\loch\f4
+.}{\rtlch \ltrch\loch\lang9
+" he sttuttered, a rare thing for a cheery Ashwath. }
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Hmm....Well Vasusena what is it that troubles you}{\i0\ai0\rtlch \ltrch\loch\lang9
+?" }
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i\ai\rtlch \ltrch\loch\lang9
+This is my turn...}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\ai0\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Well ........ Guru Deva I have a request of you to ask.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Please ........}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Please enroll me in the advanced skills of Archery and warfare}{\i0\ai0\rtlch \ltrch\loch\lang9
+.}{\rtlch \ltrch\loch\lang9
+" I bowed like every student should, maybe even lower with my hand joind in middle of my chest.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Father, He is an exceptional Archer. I've seen it myself. }
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+He has already learned to fire two arrows at the same time. }
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+And has also completed the Birds tes}{\i0\ai0\rtlch \ltrch\loch\lang9
+.....}{\rtlch \ltrch\loch\lang9
+"}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Silence now, Ashwathama}{\rtlch \ltrch\loch\lang9
+" GuruDeva Broke his son's flow. When I raised my head, a Drona redder than the evening sun was standing in fron of me.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Go back to the Ashram now. I will talk to you later}{\i0\ai0\rtlch \ltrch\loch\lang9
+."}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\ai0\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+But father}{\i0\ai0\rtlch \ltrch\loch\lang9
+....."}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\ai0\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Go before I loose my temper}{\i0\ai0\rtlch \ltrch\loch\lang9
+.}{\rtlch \ltrch\loch\lang9
+"}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+Ashwathama turned back towards the Ashram and after a while vansihed from my eyes.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+Both me and Guru Deva stood there for few moments and than he started. }
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Give me your hands, Vasusena}{\rtlch \ltrch\loch\lang9
+"}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+I extended my hands towards the Guru.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+Guru Drona clasped my hands in his and turned them palm side up.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+I can tell by the cut's and bruises that you are persistent and determined.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+These kind of hands can only belong to an archer.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+One who has sharpened his arrows and strung his bow countless times.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+But your destiny has already been decided at your birth, child.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+The skills that you ask for can only be weilded by those worthy of it.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+They can only be learned by Kshatriya's and Brahmin's as they know the worth of them.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+They will bring great devastation in wrong hands, therefore I can't teach them to you .}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+A sootputra can't progress further than this.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+You have to learn to accept your destiny and your limits.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Now go before I do something that I regret later}{\rtlch \ltrch\loch\lang9
+." Guru said releasing my hands and turned away. He started walking towards the Ashram.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i\ai\rtlch \ltrch\loch\lang9
+worthy? I am not worhty? After so many hours each and every day, so many practice session's, after drinking every lesson you taught me. And I am still not worthy.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i\ai\rtlch \ltrch\loch\lang9
+Does my name matter this much, does my birth matter this much?}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+I was so angry that day I didn't meant to say all those things but I don't regret any word that came out next.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Regret!?......}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\lang9\loch\f4
+ }{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+What will you regret Gurudeva.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Are you regreting Eklavya}{\i\hich\af4\ai\rtlch \ltrch\loch\lang9\loch\f4
+?}{\rtlch \ltrch\loch\lang9
+"}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+Guru Drona stopped in his tracks.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Are you regretting asking his thumb in Guru Dakshina.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Even when you didn't teach him a single lesson.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Or are you regretting hiding the fact that your students are not the best in thier age.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Or are you regrettin}{\i0\ai0\rtlch \ltrch\loch\lang9
+-}{\rtlch \ltrch\loch\lang9
+-----"}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Stoppp! You insolent undeserving dog}{\rtlch \ltrch\loch\lang9
+." Guru shouted while turining towards me.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+What will you do if I don't}{\rtlch \ltrch\loch\lang9
+?" There was no falter in my voice. I still don't know how I managed to gather this much courage that day.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Will you ask for me to cut myself as well?}{\i\hich\af4\ai\rtlch \ltrch\loch\lang9\loch\f4
+"}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+I took out an arrow from my quiver and held it against my ear.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i\hich\af4\ai\rtlch \ltrch\loch\lang9\loch\f4
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+I don't care as long I have my thumbs to pull the arrows with.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+I don't care as long as I get to progress,}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+As long as I get to change my destiny, }
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+I will give everything you ask for}{\i0\ai0\rtlch \ltrch\loch\lang9
+.}{\rtlch \ltrch\loch\lang9
+"}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+The atmosphere fell silent. I can see tears in Gurudeva's eyes. He tried to put a strong face but his eyes gave him away. Suddenly I fell a strong grip on my arm. }
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+What are you doing ?}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Insulting the Guru like that. Have you ever thought about the family, your mother, your brother............... about me.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Do you even know who that is}{\i0\ai0\rtlch \ltrch\loch\lang9
+?}{\rtlch \ltrch\loch\lang9
+"}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+He was scolding me but I  knew from his face and his love, that right now he only deeply cared about me.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Forgive me, Father}{\rtlch \ltrch\loch\lang9
+" I said hugging him tightly.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+My father stood up and bowed down in front of the Guru.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+I ask your forgiveness Gurudeva, in place of my son. if he has offended you in any way.....}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Please don't punish him in any way, I will throughly see to it that he doesn't appear near your ashram ever again}{\i\hich\af4\ai\rtlch \ltrch\loch\lang9\loch\f4
+.}{\rtlch \ltrch\loch\lang9
+"}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+Father, held my hand and started walking away, there was no resistance from his son.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Adhirath, Take your son away and make sure he doesn't come back here.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Also from now on, call him ...........Karna.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Because he has shown true boldness today and was not afraid to even cut his own skin.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+He deserves that name.}{\rtlch \ltrch\loch\lang9
+ "}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+Thank you, Gurudeva}{\rtlch \ltrch\loch\lang9
+" my father said once again bowing to him with his hands joined.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+"}{\i0\hich\af4\ai0\rtlch \ltrch\loch\lang9\loch\f4
+We will treasure your blessing. From now on my son will be known as Karna}{\i0\ai0\rtlch \ltrch\loch\lang9
+.}{\rtlch \ltrch\loch\lang9
+"}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\ltrpar{\rtlch \ltrch\loch\lang9
+Karna,  what a pathetic name I thought to my self. It's another insult from him to me.}
+\par \pard\plain \s0\sl276\slmult1\ql{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar\cf0\kerning1\hich\af3\langfe1033\dbch\af0\afs24\lang1081\loch\f3\fs22\lang1033\li0\ri0\lin0\rin0\fi0\sb0\sa200\ltrpar{\rtlch \ltrch\loch\lang9
+In the end, people like us don't even get to choose our own name. But before I knew it everyone started calling me by it.....}
+\par }
